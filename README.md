@@ -13,7 +13,7 @@ Para ilustrar este concepto, examinaremos dos casos paradigmáticos: los MMORPG 
 ## Caso 1 - MMORPG (Massive Multiplayer Online Rol Playable Game)
 
 <div align="center">
-  <img src="img/mmorpg.jpg" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
+  <img src="img/mmorpg.jpg" alt="aaaaaaaa" width="600" style="border-radius: 25px;">
   <p style="font-size: 8px;">Pantalla de creación de personaje del MMORPG World of Warcraft: Classic (2024)</p>
 </div>
 
