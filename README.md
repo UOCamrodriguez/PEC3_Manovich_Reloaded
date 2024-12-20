@@ -53,7 +53,7 @@ Según Manovich, el MMORPG ejemplifica una hibridación funcional y cultural, ya
 
 <div align="center">
   <img src="img/emulacion.jpg" alt="aaaaaaaa" width="600" style="border-radius: 25px;">
-  <p style="font-size: 8px;">MacOS emulando Windows 11, Ubuntu y otros sistemas operativos no contemplados originalmente para el hardware de iMac. (2024)</p>
+  <p style="font-size: 8px;">MacOS emulando Windows 11, Ubuntu y otros SO no contemplados originalmente para el hardware de iMac. (2024)</p>
 </div>
 
 ### Descripción
