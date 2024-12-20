@@ -13,8 +13,11 @@ Para ilustrar este concepto, examinaremos dos casos paradigmáticos: los MMORPG 
 ## Caso 1 - MMORPG (Massive Multiplayer Online Rol Playable Game)
 <p align="center">
   <img src="img/mmorpg.jpg" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
+  <p>Pantalla de creación de personaje del MMORPG World of Warcraft: Classic (2024)</p>
 </p>
+
 ### Descripción
+
 ### Hibridación según Lev Manovich
 
 ## Caso 2 - Concepto de emulación
