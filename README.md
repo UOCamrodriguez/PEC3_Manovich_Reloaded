@@ -11,9 +11,10 @@ Desde la perspectiva de Manovich, la hibridación se comprende como la integraci
 Para ilustrar este concepto, examinaremos dos casos paradigmáticos: los MMORPG (Massively Multiplayer Online Role-Playing Games) y la emulación, ejemplos que muestran cómo la hibridación redefine los límites entre medios, tecnologías y prácticas culturales.
 
 ## Caso 1 - MMORPG (Massive Multiplayer Online Rol Playable Game)
+
 <div align="center">
   <img src="img/mmorpg.jpg" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
- ###### Pantalla de creación de personaje del MMORPG World of Warcraft: Classic (2024)
+  <p style="font-size: 8px;">Pantalla de creación de personaje del MMORPG World of Warcraft: Classic (2024)</p>
 </div>
 
 ### Descripción
