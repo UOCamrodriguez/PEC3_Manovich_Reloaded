@@ -85,16 +85,13 @@ Según Manovich, la emulación representa una hibridación tecnológica y cultur
 - Recupera lo retro o considerado obsoleto para nuevas generaciones mediante herramientas contemporáneas, promoviendo la preservación digital y la innovación.
 - Fomenta una convergencia cultural al permitir la experimentación creativa de los usuarios con juegos clásicos a través de mods o comunidades especializadas.
 
+---
 
+## Valoración personal
 
+Mientras que los MMORPG abren puertas a mundos completamente nuevos, donde la tecnología y la interacción social se combinan para crear experiencias innovadoras, la emulación se enfoca en algo diferente: revitalizar lo antiguo. Al desvincular el software de su hardware original, la emulación nos permite revivir experiencias pasadas, preservando su esencia y al mismo tiempo adaptándolas a los avances tecnológicos actuales.
 
-
-
-
-
-
-
-## Conclusión
+Ambos casos me parecen fascinantes porque logran integrar lo técnico y lo cultural de manera única, pero desde enfoques opuestos. Los MMORPG crean un futuro lleno de posibilidades, mientras que la emulación mira hacia el pasado, buscando mantener vivo el legado digital. Esta dualidad refleja cómo la tecnología puede tanto crear algo completamente nuevo como preservar lo que ya existe, dándole un nuevo valor.
 
 ## Bibliografia
 - Adell, F. (2013). *Remediación, multimedia e hibridación de los medios.* multimedia.uoc.edu.
