@@ -18,14 +18,91 @@ Para ilustrar este concepto, examinaremos dos casos paradigmáticos: los MMORPG 
 
 ### Descripción
 
-### Hibridación según Lev Manovich
+Para el análisis de este caso, utilizaremos el término MMORPG para referirnos a la integración de narrativa cinematográfica (A), interacción social (B), gráficos avanzados (C) y economía digital (D), creando mundos virtuales inmersivos. Además, hibridan mecánicas de juegos de rol tradicionales (1974) junto a la tecnología en línea; dando lugar a los primeros de dicho género allá en la década de 1990. Este término, adaptado específicamente para este ensayo y alineado con el concepto de hibridación de Lev Manovich, no solo simplifica la redacción, sino que también subraya el fenómeno de convergencia y mezcla que define este caso.
+
+### Como concepto de hibridación
+
+Las hibridaciones, según Lev Manovich, se reconocen cuando elementos de medios o tecnologías previamente independientes se combinan para crear algo nuevo, tanto en su forma como en su funcionalidad. En el caso de los MMORPG, estas hibridaciones surgen de:
+
+- La unión de elementos narrativos (como una trama compleja propia del cine o la literatura) con la interacción en tiempo real de múltiples jugadores.
+- La incorporación de mundos persistentes que evolucionan con la interacción de los usuarios.
+- La mezcla de gráficos avanzados con mecánicas de juegos de rol tradicionales, llevadas a plataformas en línea.
+- El uso de interfaces específicas y concretas, diseñadas para maximizar la accesibilidad de los jugadores, integrando elementos de comunicación como chats de texto, sistemas de voz, y HUDs (Head-Up Displays) que facilitan la navegación y el intercambio de información entre los usuarios.
+
+Los MMORPG (Massively Multiplayer Online Role-Playing Games) son plataformas digitales que permiten a miles de jugadores interactuar en tiempo real en mundos virtuales persistentes.
+
+Medios que incorpora:
+- Narrativa cinematográfica: Historias envolventes propias del cine o la literatura.
+- Gráficos avanzados: Representaciones visuales tridimensionales.
+- Interacción social: Herramientas como chats de texto, sistemas de voz, clanes, y mecánicas de cooperación/competencia entre jugadores.
+- Interfaces accesibles: Diseños intuitivos que incluyen mapas interactivos, sistemas de gestión de inventarios y notificaciones en tiempo real.
+- Economía digital: Mercados internos con monedas virtuales y transacciones reales.
+- Tecnología de red: Infraestructuras de servidores para el juego en línea.
+
+Según Manovich, el MMORPG ejemplifica una hibridación funcional y cultural, ya que:
+
+- Fusiona medios tecnológicos y narrativos, combinando gráficos avanzados, tramas inmersivas y la interacción social en tiempo real.
+- Integra sistemas económicos y culturales propios del mundo real (como la economía de mercado o dinámicas sociales) dentro de un contexto virtual, enriqueciendo las experiencias de juego.
+- Hibrida mecánicas tradicionales de juegos de rol con capacidades de las tecnologías en línea, creando un entorno que no podría existir sin dicha convergencia tecnológica.
+- Potencia la accesibilidad mediante interfaces diseñadas específicamente para facilitar la comunicación y la interacción, logrando que los jugadores con diferentes niveles de experiencia puedan participar activamente en los mundos virtuales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Caso 2 - Concepto de emulación
 <p align="center">
   <img src="img/emulacion.jpg" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
 </p>
 ### Descripción
-### Hibridación según Lev Manovich
+### Como concepto de hibridación
 
 ## Conclusión
 
