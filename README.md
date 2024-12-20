@@ -2,13 +2,14 @@
 ### - Aitor Marcos Rodríguez Mármol
 ### - Grado en multimedia
 ### - 20/12/2024
+### - Total palabras (contenido):
 
 ## Introducción
-A lo largo de las páginas que nos ofrece Lev Manovich en El lenguaje de los nuevos medios, hemos analizado conceptos clave para entender las transformaciones culturales y tecnológicas propias de la era digital. Previamente abordamos el fenómeno de la remediación, ejemplificado a través de Twitch. Ahora, es el turno de explorar el concepto de hibridación, un proceso que, como sugiere su nombre, implica la combinación de formas y medios diversos en un único objeto, interfaz o experiencia mediática.
+A lo largo de las páginas de El lenguaje de los nuevos medios de Lev Manovich, hemos analizado conceptos clave para entender las transformaciones culturales y tecnológicas de la era digital. Previamente abordamos el fenómeno de la remediación, ejemplificado a través de Twitch. Ahora, exploramos el concepto de hibridación, que implica la combinación de formas y medios diversos en un único objeto, interfaz o experiencia mediática.
 
-Desde la perspectiva de Manovich, la hibridación se comprende como la integración de elementos, características y dinámicas propias de medios distintos, dando lugar a algo novedoso y distintivo que no puede encasillarse exclusivamente en ninguno de los medios originales. Este concepto no solo implica una mezcla de tecnologías, sino también la confluencia de lógicas culturales, estéticas y comunicativas, lo que transforma tanto las experiencias como las estructuras mediáticas en sí mismas.
+Manovich entiende la hibridación como la integración de elementos, características y dinámicas de medios distintos, creando algo novedoso que no puede encasillarse en ninguno de los medios originales. Este concepto no solo implica una mezcla de tecnologías, sino también la confluencia de lógicas culturales, estéticas y comunicativas, transformando experiencias y estructuras mediáticas.
 
-Para ilustrar este concepto, examinaremos dos casos paradigmáticos: los MMORPG (Massively Multiplayer Online Role-Playing Games) y la emulación, ejemplos que muestran cómo la hibridación redefine los límites entre medios, tecnologías y prácticas culturales.
+Examinaremos dos casos paradigmáticos: los MMORPG (Massively Multiplayer Online Role-Playing Games) y la emulación, que muestran cómo la hibridación redefine los límites entre medios, tecnologías y prácticas culturales.
 
 ## Caso 1 - MMORPG (Massive Multiplayer Online Rol Playable Game)
 
@@ -19,12 +20,11 @@ Para ilustrar este concepto, examinaremos dos casos paradigmáticos: los MMORPG 
 
 ### Descripción
 
-Para el análisis de este caso, utilizaremos el término emulación para referirnos a la integración de reproducción de software obsoleto (A), recreación de entornos virtuales clásicos (B), mejora de la calidad audiovisual mediante técnicas modernas (C), y creación de configuraciones personalizadas para usuarios (D). Estas características permiten no solo revivir experiencias originales, sino también adaptarlas a las posibilidades técnicas contemporáneas. Además, la emulación combina tecnologías retro con infraestructura moderna, eliminando las limitaciones del hardware original y extendiendo su alcance a nuevas generaciones. Este término, adaptado específicamente para este ensayo y alineado con el concepto de hibridación de Lev Manovich, simplifica la redacción al mismo tiempo que destaca el fenómeno de convergencia y reconfiguración que define este caso.
+Para el análisis de este caso, utilizaremos el término emulación para referirnos a la reproducción de software obsoleto (A), recreación de entornos virtuales clásicos (B), mejora audiovisual mediante técnicas modernas (C), y creación de configuraciones personalizadas para usuarios (D). Estas características permiten revivir experiencias originales y adaptarlas a las posibilidades técnicas contemporáneas. Además, la emulación combina tecnologías retro con infraestructura moderna, eliminando las limitaciones del hardware original y extendiendo su alcance a nuevas generaciones. Este término, alineado con el concepto de hibridación de Lev Manovich, simplifica la redacción y destaca el fenómeno de convergencia que define este caso.
 
 ### Como concepto de hibridación
 
-Las hibridaciones, según Lev Manovich, se reconocen cuando elementos de medios o tecnologías previamente independientes se combinan para crear algo nuevo, tanto en su forma como en su funcionalidad. En el caso de los MMORPG, estas hibridaciones surgen de:
-
+Las hibridaciones, según Lev Manovich, se reconocen cuando elementos de medios o tecnologías previamente independientes se combinan para crear algo nuevo, tanto en su forma como en su funcionalidad:
 - La unión de elementos narrativos (como una trama compleja propia del cine o la literatura) con la interacción en tiempo real de múltiples jugadores.
 - La incorporación de mundos persistentes que evolucionan con la interacción de los usuarios.
 - La mezcla de gráficos avanzados con mecánicas de juegos de rol tradicionales, llevadas a plataformas en línea.
@@ -32,45 +32,34 @@ Las hibridaciones, según Lev Manovich, se reconocen cuando elementos de medios 
 
 Los MMORPG (Massively Multiplayer Online Role-Playing Games) son plataformas digitales que permiten a miles de jugadores interactuar en tiempo real en mundos virtuales persistentes.
 
-Medios que incorpora:
+Medios que incorpora, ejemplificando una hibridación funcional y cultural, ya que:
 - Narrativa cinematográfica: Historias envolventes propias del cine o la literatura.
 - Gráficos avanzados: Representaciones visuales tridimensionales.
 - Interacción social: Herramientas como chats de texto, sistemas de voz, clanes, y mecánicas de cooperación/competencia entre jugadores.
 - Interfaces accesibles: Diseños intuitivos que incluyen mapas interactivos, sistemas de gestión de inventarios y notificaciones en tiempo real.
 - Economía digital: Mercados internos con monedas virtuales y transacciones reales.
 - Tecnología de red: Infraestructuras de servidores para el juego en línea.
-
-Según Manovich, el MMORPG ejemplifica una hibridación funcional y cultural, ya que:
-
-- Fusiona medios tecnológicos y narrativos, combinando gráficos avanzados, tramas inmersivas y la interacción social en tiempo real.
-- Integra sistemas económicos y culturales propios del mundo real (como la economía de mercado o dinámicas sociales) dentro de un contexto virtual, enriqueciendo las experiencias de juego.
-- Hibrida mecánicas tradicionales de juegos de rol con capacidades de las tecnologías en línea, creando un entorno que no podría existir sin dicha convergencia tecnológica.
-- Potencia la accesibilidad mediante interfaces diseñadas específicamente para facilitar la comunicación y la interacción, logrando que los jugadores con diferentes niveles de experiencia puedan participar activamente en los mundos virtuales.
-
-
+- Identidad cultural: El sentido comunitario crea rasgos característicos arraigados a su entorno.
 
 ## Caso 2 - Concepto de emulación
 
 <div align="center">
   <img src="img/emulacion.jpg" alt="aaaaaaaa" width="600" style="border-radius: 25px;">
-  <p style="font-size: 8px;">MacOS emulando Windows 11, Ubuntu y otros SO no contemplados originalmente para el hardware de iMac. (2024)</p>
+  <p style="font-size: 8px;">MacOS emulando Windows 11, Ubuntu y otros SO desde un iMac (2024)</p>
 </div>
 
 ### Descripción
 
-- La combinación de hardware y software para ejecutar este segundo en dispositivos para el cual no ha sido contemplado.
-- La capacidad de desvincular el hardware del software, eliminando las barreras de compatibilidad y requisitos específicos que limitaban su uso en dispositivos originales.
-- La integración de interfaces específicas que maximizan la accesibilidad, como configuraciones personalizables de controles y opciones para mejorar la calidad visual o sonora.
-- La incorporación de elementos de comunicación, como el intercambio de estados guardados, configuraciones o modificaciones (mods) a través de plataformas digitales.
-  
-Esto diferencia a la emulación de la multimedia, que combina medios (texto, audio, video) sin alterar su estructura original, y de la remediación, que adapta un medio a otro sin fusionar funcionalidades nuevas. En contraste, la emulación redefine las experiencias originales al mezclar elementos técnicos y culturales.
+
+Para este análisis, utilizamos el término emulación para referirnos a la integración de software antiguo en dispositivos no previstos originalmente (A), la desvinculación de hardware y software (B), la manipulación del código y personalización de interfaces (C), y la creación de entornos de testeo aislados (D). Esta hibridación permite revivir experiencias pasadas adaptándolas a la tecnología actual, combinando elementos clásicos con infraestructuras modernas para extender su vida útil y accesibilidad.
+
+Esto diferencia la emulación de la multimedia, que combina medios sin alterar su estructura original, y de la remediación, que adapta un medio sin fusionar funcionalidades; en contraste, la emulación redefine las experiencias originales al mezclar elementos técnicos y culturales.
 
 ### Como concepto de hibridación
 
 Medios que incorpora:
 La emulación se refiere a la reproducción de hardware o software antiguo en dispositivos modernos, como consolas retro emuladas en PC, smartphones o dispositivos dedicados.
 
-Medios que incorpora:
 - Representación gráfica y sonora: Reproducción fiel de elementos audiovisuales originales, con opciones modernas como filtros o mejoras de resolución.
 - Interactividad: Uso de controladores modernos o simulación de periféricos clásicos.
 - Desvinculación de hardware y software: La emulación elimina la necesidad del hardware original, permitiendo que los programas antiguos funcionen en arquitecturas modernas.
@@ -89,7 +78,7 @@ Según Manovich, la emulación representa una hibridación tecnológica y cultur
 
 ## Valoración personal
 
-Mientras que los MMORPG abren puertas a mundos completamente nuevos, donde la tecnología y la interacción social se combinan para crear experiencias innovadoras, la emulación se enfoca en algo diferente: revitalizar lo antiguo. Al desvincular el software de su hardware original, la emulación nos permite revivir experiencias pasadas, preservando su esencia y al mismo tiempo adaptándolas a los avances tecnológicos actuales.
+Mientras que los MMORPG abren puertas a mundos completamente nuevos, donde la tecnología y la interacción social se combinan para crear experiencias innovadoras, la emulación se enfoca en algo diferente: revitalizar lo antiguo y garantizar una compatibilidad casi universal donde hardware y software se desvinculan. Al desvincular el software de su hardware original, la emulación nos permite revivir experiencias pasadas, preservando su esencia y al mismo tiempo adaptándolas a los avances tecnológicos actuales.
 
 Ambos casos me parecen fascinantes porque logran integrar lo técnico y lo cultural de manera única, pero desde enfoques opuestos. Los MMORPG crean un futuro lleno de posibilidades, mientras que la emulación mira hacia el pasado, buscando mantener vivo el legado digital. Esta dualidad refleja cómo la tecnología puede tanto crear algo completamente nuevo como preservar lo que ya existe, dándole un nuevo valor.
 
