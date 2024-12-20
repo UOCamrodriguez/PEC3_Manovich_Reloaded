@@ -74,7 +74,6 @@ Según Manovich, la emulación representa una hibridación tecnológica y cultur
 - Recupera lo retro o considerado obsoleto para nuevas generaciones mediante herramientas contemporáneas, promoviendo la preservación digital y la innovación.
 - Fomenta una convergencia cultural al permitir la experimentación creativa de los usuarios con juegos clásicos a través de mods o comunidades especializadas.
 
----
 
 ## Valoración personal
 
