@@ -14,7 +14,7 @@ Examinaremos dos casos paradigmáticos: los MMORPG (Massively Multiplayer Online
 ## Caso 1 - MMORPG (Massive Multiplayer Online Rol Playable Game)
 
 <div align="center">
-  <img src="img/mmorpg.jpg" alt="aaaaaaaa" width="600" style="border-radius: 25px;">
+  <img src="img/mmorpg.jpg" alt="Pantalla de creación de personaje del MMORPG World of Warcraft: Classic (2024)" width="600" style="border-radius: 25px;">
   <p style="font-size: 8px;">Pantalla de creación de personaje del MMORPG World of Warcraft: Classic (2024)</p>
 </div>
 
@@ -44,7 +44,7 @@ Medios que incorpora, ejemplificando una hibridación funcional y cultural, ya q
 ## Caso 2 - Concepto de emulación
 
 <div align="center">
-  <img src="img/emulacion.jpg" alt="aaaaaaaa" width="600" style="border-radius: 25px;">
+  <img src="img/emulacion.jpg" alt="MacOS emulando Windows 11, Ubuntu y otros SO desde un iMac" width="600" style="border-radius: 25px;">
   <p style="font-size: 8px;">MacOS emulando Windows 11, Ubuntu y otros SO desde un iMac (2024)</p>
 </div>
 
@@ -63,8 +63,8 @@ La emulación se refiere a la reproducción de hardware o software antiguo en di
 - Representación gráfica y sonora: Reproducción fiel de elementos audiovisuales originales, con opciones modernas como filtros o mejoras de resolución.
 - Interactividad: Uso de controladores modernos o simulación de periféricos clásicos.
 - Desvinculación de hardware y software: La emulación elimina la necesidad del hardware original, permitiendo que los programas antiguos funcionen en arquitecturas modernas.
-- Interfaces accesibles: Configuraciones avanzadas de mapeo de controles, estados de guardado instantáneos y menús optimizados para los usuarios actuales.
-- Comunicación digital: Capacidades para compartir ROMs, mods y experiencias personalizadas en comunidades en línea.
+- Interfaces accesibles: Configuraciones avanzadas, menus optimizados y estados de guardado instantáneos.
+- Comunicación digital: Capacidades para compartir ROMs, mods y experiencias personalizadas.
 - Tecnología híbrida: Uso de software que simula el comportamiento del hardware original mediante traducción de instrucciones o interpretación binaria en tiempo real.
 
 Según Manovich, la emulación representa una hibridación tecnológica y cultural, ya que:
@@ -73,7 +73,7 @@ Según Manovich, la emulación representa una hibridación tecnológica y cultur
 - Fusiona herramientas modernas (como procesadores actuales) con tecnologías de retrocompatibilidad, combinando precisión técnica con accesibilidad masiva.
 - Recupera lo retro o considerado obsoleto para nuevas generaciones mediante herramientas contemporáneas, promoviendo la preservación digital y la innovación.
 - Fomenta una convergencia cultural al permitir la experimentación creativa de los usuarios con juegos clásicos a través de mods o comunidades especializadas.
-
+- Aunque de forma controversial e ilícita, la emulación permite el acceso a elementos que, de otro modo, estarían limitados por el poder adquisitivo del usuario, con especial mención a plataformas como <a href="https://yuzu-emulator.net/#about-what-happened-to-yuzu" title="Yuzu">Yuzu</a>.
 
 ## Valoración personal
 
