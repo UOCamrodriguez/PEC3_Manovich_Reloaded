@@ -13,7 +13,7 @@ Para ilustrar este concepto, examinaremos dos casos paradigmáticos: los MMORPG 
 ## Caso 1 - MMORPG (Massive Multiplayer Online Rol Playable Game)
 <div align="center">
   <img src="img/mmorpg.jpg" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
-  <p style="font-size: 12px">Pantalla de creación de personaje del MMORPG World of Warcraft: Classic (2024)</p>
+  <p style="font-size: 8px;">Pantalla de creación de personaje del MMORPG World of Warcraft: Classic (2024)</p>
 </div>
 
 ### Descripción
@@ -98,9 +98,12 @@ Según Manovich, el MMORPG ejemplifica una hibridación funcional y cultural, ya
 
 
 ## Caso 2 - Concepto de emulación
-<p align="center">
+
+<div align="center">
   <img src="img/emulacion.jpg" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
-</p>
+  <p style="font-size: 8px;">Pantalla de creación de personaje del MMORPG World of Warcraft: Classic (2024)</p>
+</div>
+
 ### Descripción
 ### Como concepto de hibridación
 
