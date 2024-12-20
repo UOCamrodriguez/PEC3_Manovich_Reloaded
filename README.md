@@ -47,6 +47,8 @@ Según Manovich, el MMORPG ejemplifica una hibridación funcional y cultural, ya
 - Hibrida mecánicas tradicionales de juegos de rol con capacidades de las tecnologías en línea, creando un entorno que no podría existir sin dicha convergencia tecnológica.
 - Potencia la accesibilidad mediante interfaces diseñadas específicamente para facilitar la comunicación y la interacción, logrando que los jugadores con diferentes niveles de experiencia puedan participar activamente en los mundos virtuales.
 
+
+
 ## Caso 2 - Concepto de emulación
 
 <div align="center">
@@ -55,39 +57,33 @@ Según Manovich, el MMORPG ejemplifica una hibridación funcional y cultural, ya
 </div>
 
 ### Descripción
-### Como concepto de hibridación
-Las hibridaciones, según Lev Manovich, se reconocen cuando elementos de medios o tecnologías previamente independientes se combinan para crear algo nuevo, tanto en su forma como en su funcionalidad. En el caso de la emulación, estas hibridaciones surgen de:
 
-La combinación de hardware y software para replicar sistemas antiguos en dispositivos modernos.
-La capacidad de desvincular el hardware del software, eliminando las barreras de compatibilidad y requisitos específicos que limitaban su uso en dispositivos originales.
-La integración de interfaces específicas que maximizan la accesibilidad, como configuraciones personalizables de controles y opciones para mejorar la calidad visual o sonora.
-La incorporación de elementos de comunicación, como el intercambio de estados guardados, configuraciones o modificaciones (mods) a través de plataformas digitales.
+- La combinación de hardware y software para ejecutar este segundo en dispositivos para el cual no ha sido contemplado.
+- La capacidad de desvincular el hardware del software, eliminando las barreras de compatibilidad y requisitos específicos que limitaban su uso en dispositivos originales.
+- La integración de interfaces específicas que maximizan la accesibilidad, como configuraciones personalizables de controles y opciones para mejorar la calidad visual o sonora.
+- La incorporación de elementos de comunicación, como el intercambio de estados guardados, configuraciones o modificaciones (mods) a través de plataformas digitales.
+  
 Esto diferencia a la emulación de la multimedia, que combina medios (texto, audio, video) sin alterar su estructura original, y de la remediación, que adapta un medio a otro sin fusionar funcionalidades nuevas. En contraste, la emulación redefine las experiencias originales al mezclar elementos técnicos y culturales.
 
-Caso escogido: la emulación
-Cómo funciona y medios que incorpora:
+### Como concepto de hibridación
+
+Medios que incorpora:
 La emulación se refiere a la reproducción de hardware o software antiguo en dispositivos modernos, como consolas retro emuladas en PC, smartphones o dispositivos dedicados.
 
 Medios que incorpora:
-Representación gráfica y sonora: Reproducción fiel de elementos audiovisuales originales, con opciones modernas como filtros o mejoras de resolución.
-Interactividad: Uso de controladores modernos o simulación de periféricos clásicos.
-Desvinculación de hardware y software: La emulación elimina la necesidad del hardware original, permitiendo que los programas antiguos funcionen en arquitecturas modernas.
-Interfaces accesibles: Configuraciones avanzadas de mapeo de controles, estados de guardado instantáneos y menús optimizados para los usuarios actuales.
-Comunicación digital: Capacidades para compartir ROMs, mods y experiencias personalizadas en comunidades en línea.
-Tecnología híbrida: Uso de software que simula el comportamiento del hardware original mediante traducción de instrucciones o interpretación binaria en tiempo real.
-¿Qué tipo de hibridación se puede identificar en este caso?
+- Representación gráfica y sonora: Reproducción fiel de elementos audiovisuales originales, con opciones modernas como filtros o mejoras de resolución.
+- Interactividad: Uso de controladores modernos o simulación de periféricos clásicos.
+- Desvinculación de hardware y software: La emulación elimina la necesidad del hardware original, permitiendo que los programas antiguos funcionen en arquitecturas modernas.
+- Interfaces accesibles: Configuraciones avanzadas de mapeo de controles, estados de guardado instantáneos y menús optimizados para los usuarios actuales.
+- Comunicación digital: Capacidades para compartir ROMs, mods y experiencias personalizadas en comunidades en línea.
+- Tecnología híbrida: Uso de software que simula el comportamiento del hardware original mediante traducción de instrucciones o interpretación binaria en tiempo real.
+
 Según Manovich, la emulación representa una hibridación tecnológica y cultural, ya que:
 
-Elimina las barreras entre hardware y software, permitiendo que tecnologías actuales ejecuten programas diseñados para arquitecturas específicas y obsoletas.
-Fusiona herramientas modernas (como procesadores actuales) con tecnologías de retrocompatibilidad, combinando precisión técnica con accesibilidad masiva.
-Recupera lo retro para nuevas generaciones mediante herramientas contemporáneas, promoviendo la preservación digital y la innovación.
-Fomenta una convergencia cultural al permitir la experimentación creativa de los usuarios con juegos clásicos a través de mods o comunidades especializadas.
-
-
-
-
-
-
+- Elimina las barreras entre hardware y software, permitiendo que tecnologías actuales ejecuten programas diseñados para arquitecturas específicas y obsoletas.
+- Fusiona herramientas modernas (como procesadores actuales) con tecnologías de retrocompatibilidad, combinando precisión técnica con accesibilidad masiva.
+- Recupera lo retro o considerado obsoleto para nuevas generaciones mediante herramientas contemporáneas, promoviendo la preservación digital y la innovación.
+- Fomenta una convergencia cultural al permitir la experimentación creativa de los usuarios con juegos clásicos a través de mods o comunidades especializadas.
 
 
 
