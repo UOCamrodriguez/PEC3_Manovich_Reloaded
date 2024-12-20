@@ -101,7 +101,7 @@ Según Manovich, el MMORPG ejemplifica una hibridación funcional y cultural, ya
 ## Caso 2 - Concepto de emulación
 
 <div align="center">
-  <img src="img/emulacion.jpg" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
+  <img src="img/emulacion.jpg" alt="aaaaaaaa" width="600" style="border-radius: 25px;">
   <p style="font-size: 8px;">Pantalla de creación de personaje del MMORPG World of Warcraft: Classic (2024)</p>
 </div>
 
