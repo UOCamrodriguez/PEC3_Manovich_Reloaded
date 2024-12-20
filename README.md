@@ -7,14 +7,14 @@ Grado en multimedia
 
 ## Caso 1 - MMORPG (Massive Multiplayer Online Rol Playable Game)
 <p align="center">
-  <img src="img/mmorpg.png" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
+  <img src="img/mmorpg.jpg" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
 </p>
 ### Descripción
 ### Hibridación según Lev Manovich
 
 ## Caso 2 - Concepto de emulación
 <p align="center">
-  <img src="img/emulacion.png" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
+  <img src="img/emulacion.jpg" alt="aaaaaaaa" width="500" style="border-radius: 25px;">
 </p>
 ### Descripción
 ### Hibridación según Lev Manovich
