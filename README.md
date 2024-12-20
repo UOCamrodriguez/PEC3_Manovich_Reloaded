@@ -77,6 +77,7 @@ Mientras que **los MMORPG abren puertas a mundos completamente nuevos**, donde l
 Ambos casos me parecen fascinantes porque logran integrar lo técnico y lo cultural de manera única, pero desde enfoques opuestos. Los MMORPG crean un futuro lleno de posibilidades, mientras que la emulación mira hacia el pasado, buscando mantener vivo el legado digital. Esta dualidad refleja cómo la tecnología puede tanto crear algo completamente nuevo como preservar lo que ya existe, dándole un nuevo valor.
 
 ## Bibliografía
+- Manovich, L. (2001). The language of new media. MIT Press.
 - Adell, F. (2013). *Remediación, multimedia e hibridación de los medios.* multimedia.uoc.edu.
 - Rodríguez Martínez, M. (2016). *Diseño de emuladores híbridos con aplicación en circuitos caóticos.*  <a href="https://ipicyt.repositorioinstitucional.mx">ipicyt.repositorioinstitucional.mx</a>
 - Manovich, L. (2008). *Comprender los medios híbridos.* <a href="https://academia.edu/2800625/Comprender_los_medios_h%C3%ADbridos">academia.edu/2800625/Comprender_los_medios_h%C3%ADbridos</a>
