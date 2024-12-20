@@ -4,6 +4,11 @@ Grado en multimedia
 20/12/2024
 
 ## Introducción
+A lo largo de las páginas que nos ofrece Lev Manovich en El lenguaje de los nuevos medios, hemos analizado conceptos clave para entender las transformaciones culturales y tecnológicas propias de la era digital. Previamente abordamos el fenómeno de la remediación, ejemplificado a través de Twitch. Ahora, es el turno de explorar el concepto de hibridación, un proceso que, como sugiere su nombre, implica la combinación de formas y medios diversos en un único objeto, interfaz o experiencia mediática.
+
+Desde la perspectiva de Manovich, la hibridación se comprende como la integración de elementos, características y dinámicas propias de medios distintos, dando lugar a algo novedoso y distintivo que no puede encasillarse exclusivamente en ninguno de los medios originales. Este concepto no solo implica una mezcla de tecnologías, sino también la confluencia de lógicas culturales, estéticas y comunicativas, lo que transforma tanto las experiencias como las estructuras mediáticas en sí mismas.
+
+Para ilustrar este concepto, examinaremos dos casos paradigmáticos: los MMORPG (Massively Multiplayer Online Role-Playing Games) y la emulación, ejemplos que muestran cómo la hibridación redefine los límites entre medios, tecnologías y prácticas culturales.
 
 ## Caso 1 - MMORPG (Massive Multiplayer Online Rol Playable Game)
 <p align="center">
