@@ -1,7 +1,7 @@
 # **Hibridación tecnológica y cultural: MMORPG y emulación.**
-### Aitor Marcos Rodríguez Mármol
-### Grado en multimedia
-### 20/12/2024
+### - Aitor Marcos Rodríguez Mármol
+### - Grado en multimedia
+### - 20/12/2024
 
 ## Introducción
 A lo largo de las páginas que nos ofrece Lev Manovich en El lenguaje de los nuevos medios, hemos analizado conceptos clave para entender las transformaciones culturales y tecnológicas propias de la era digital. Previamente abordamos el fenómeno de la remediación, ejemplificado a través de Twitch. Ahora, es el turno de explorar el concepto de hibridación, un proceso que, como sugiere su nombre, implica la combinación de formas y medios diversos en un único objeto, interfaz o experiencia mediática.
