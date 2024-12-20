@@ -1,4 +1,8 @@
 # **Hibridación tecnológica y cultural: MMORPG y emulación.**
+Aitor Marcos Rodríguez Mármol
+Grado en multimedia
+20/12/2024
+
 ---
 ## Introducción
 ---
